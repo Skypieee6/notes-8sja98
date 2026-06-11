@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://Skypieee6.github.io/notes-8sja98/sitemap.xml
